@@ -1,0 +1,21 @@
+{
+  "name": "guanhui07/carbon",
+  "description": "dto,entity",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Guanhui07\\Carbon\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "yangminghui",
+      "email": "guanhui07@gmailc.om"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">7.0",
+    "ext-json": "*"
+  }
+}
