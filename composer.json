@@ -1,6 +1,6 @@
 {
   "name": "guanhui07/carbon",
-  "description": "dto,entity",
+  "description": "carbon,time",
   "license": "MIT",
   "autoload": {
     "psr-4": {
